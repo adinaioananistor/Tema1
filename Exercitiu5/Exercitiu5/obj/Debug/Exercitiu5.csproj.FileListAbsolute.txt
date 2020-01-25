@@ -1,0 +1,7 @@
+F:\C#\Exercitiu5\Exercitiu5\obj\Debug\Exercitiu5.csprojAssemblyReference.cache
+F:\C#\Exercitiu5\Exercitiu5\obj\Debug\Exercitiu5.csproj.CoreCompileInputs.cache
+F:\C#\Exercitiu5\Exercitiu5\bin\Debug\Exercitiu5.exe.config
+F:\C#\Exercitiu5\Exercitiu5\bin\Debug\Exercitiu5.exe
+F:\C#\Exercitiu5\Exercitiu5\bin\Debug\Exercitiu5.pdb
+F:\C#\Exercitiu5\Exercitiu5\obj\Debug\Exercitiu5.exe
+F:\C#\Exercitiu5\Exercitiu5\obj\Debug\Exercitiu5.pdb

@@ -1,0 +1,7 @@
+F:\C#\Exercitiu4\Exercitiu4\obj\Debug\Exercitiu4.csprojAssemblyReference.cache
+F:\C#\Exercitiu4\Exercitiu4\obj\Debug\Exercitiu4.csproj.CoreCompileInputs.cache
+F:\C#\Exercitiu4\Exercitiu4\bin\Debug\Exercitiu4.exe.config
+F:\C#\Exercitiu4\Exercitiu4\bin\Debug\Exercitiu4.exe
+F:\C#\Exercitiu4\Exercitiu4\bin\Debug\Exercitiu4.pdb
+F:\C#\Exercitiu4\Exercitiu4\obj\Debug\Exercitiu4.exe
+F:\C#\Exercitiu4\Exercitiu4\obj\Debug\Exercitiu4.pdb

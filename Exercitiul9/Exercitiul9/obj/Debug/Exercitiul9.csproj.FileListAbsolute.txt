@@ -1,0 +1,7 @@
+F:\C#\Exercitiul9\Exercitiul9\bin\Debug\Exercitiul9.exe.config
+F:\C#\Exercitiul9\Exercitiul9\bin\Debug\Exercitiul9.exe
+F:\C#\Exercitiul9\Exercitiul9\bin\Debug\Exercitiul9.pdb
+F:\C#\Exercitiul9\Exercitiul9\obj\Debug\Exercitiul9.csprojAssemblyReference.cache
+F:\C#\Exercitiul9\Exercitiul9\obj\Debug\Exercitiul9.csproj.CoreCompileInputs.cache
+F:\C#\Exercitiul9\Exercitiul9\obj\Debug\Exercitiul9.exe
+F:\C#\Exercitiul9\Exercitiul9\obj\Debug\Exercitiul9.pdb

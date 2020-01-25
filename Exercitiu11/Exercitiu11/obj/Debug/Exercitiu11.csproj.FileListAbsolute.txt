@@ -1,0 +1,7 @@
+F:\C#\Exercitiu11\Exercitiu11\bin\Debug\Exercitiu11.exe.config
+F:\C#\Exercitiu11\Exercitiu11\bin\Debug\Exercitiu11.exe
+F:\C#\Exercitiu11\Exercitiu11\bin\Debug\Exercitiu11.pdb
+F:\C#\Exercitiu11\Exercitiu11\obj\Debug\Exercitiu11.csprojAssemblyReference.cache
+F:\C#\Exercitiu11\Exercitiu11\obj\Debug\Exercitiu11.csproj.CoreCompileInputs.cache
+F:\C#\Exercitiu11\Exercitiu11\obj\Debug\Exercitiu11.exe
+F:\C#\Exercitiu11\Exercitiu11\obj\Debug\Exercitiu11.pdb

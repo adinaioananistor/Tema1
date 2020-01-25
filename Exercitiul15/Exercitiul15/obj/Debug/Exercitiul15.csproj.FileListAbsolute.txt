@@ -1,0 +1,7 @@
+F:\C#\Exercitiul15\Exercitiul15\bin\Debug\Exercitiul15.exe.config
+F:\C#\Exercitiul15\Exercitiul15\bin\Debug\Exercitiul15.exe
+F:\C#\Exercitiul15\Exercitiul15\bin\Debug\Exercitiul15.pdb
+F:\C#\Exercitiul15\Exercitiul15\obj\Debug\Exercitiul15.csprojAssemblyReference.cache
+F:\C#\Exercitiul15\Exercitiul15\obj\Debug\Exercitiul15.csproj.CoreCompileInputs.cache
+F:\C#\Exercitiul15\Exercitiul15\obj\Debug\Exercitiul15.exe
+F:\C#\Exercitiul15\Exercitiul15\obj\Debug\Exercitiul15.pdb

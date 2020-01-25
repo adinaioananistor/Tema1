@@ -1,0 +1,7 @@
+F:\C#\Exercitiul10\Exercitiul10\bin\Debug\Exercitiul10.exe.config
+F:\C#\Exercitiul10\Exercitiul10\bin\Debug\Exercitiul10.exe
+F:\C#\Exercitiul10\Exercitiul10\bin\Debug\Exercitiul10.pdb
+F:\C#\Exercitiul10\Exercitiul10\obj\Debug\Exercitiul10.csprojAssemblyReference.cache
+F:\C#\Exercitiul10\Exercitiul10\obj\Debug\Exercitiul10.csproj.CoreCompileInputs.cache
+F:\C#\Exercitiul10\Exercitiul10\obj\Debug\Exercitiul10.exe
+F:\C#\Exercitiul10\Exercitiul10\obj\Debug\Exercitiul10.pdb
