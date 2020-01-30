@@ -7,32 +7,54 @@ using System.Threading.Tasks;
 namespace Exercitiu2
 {
     class Program
-    {   
+    {
         static void Main(string[] args)
         {
-           
-            int[] sirul = new int[5];
-            int i;
-            Console.Write("Sirul este:\n");
-            for (i = 0; i < 5; i++)
-            {
-                Console.Write("element de pe pozitia {0} este : ", i);
-                sirul[i] = int.Parse(Console.ReadLine());
-            }
-            
-            Console.Write("Elementele sirului sunt:");
-            for (i = 0; i < 5; i++)
-            {
-                Console.Write(" {0}", sirul[i]);
-            }
-            
-            Console.WriteLine();
-            Console.Write("Noul sir este:\n");
-            Console.Write(" "+sirul.First());
-            Console.Write(" " +sirul.Last());
+            List<int> list = ReadListFromConsole();
+            Console.Write("The new list is:\n");
+            TakeTheFirstElement(list);
+            TakeTheLastElement(list);
             Console.Read();
 
         }
+        public static void TakeTheFirstElement(List<int> list)
+        {
+            Console.Write(" " + list.First());
+        }
+        public static void TakeTheLastElement(List<int> list)
+        {
+            Console.Write(" " + list.Last());
+        }
+
+        public static List<int> ReadListFromConsole()
+        {
+            List<int> list = new List<int>();
+            Console.WriteLine("List:");
+
+            string input = Console.ReadLine();
+
+            string numberSoFar = "";
+            for (int i = 0; i < input.Length; i++)
+            {
+
+
+                if (Char.IsDigit(input[i]))
+                {
+                    numberSoFar += input[i];
+                }
+                else
+                {
+
+                    list.Add(int.Parse(numberSoFar));
+                    numberSoFar = "";
+                }
+
+
+            }
+            list.Add(int.Parse(numberSoFar));
+            return list;
+
+        }
     }
-    }
+}
 
